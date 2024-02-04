@@ -1,10 +1,9 @@
-package main
+package code
 
 import (
     "fmt"
 )
 
-func main() {
-    fmt.Println("Learning git") 
+func Hello() {
+    fmt.Println("Hello")
 }
-
